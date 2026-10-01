@@ -1,0 +1,31 @@
+{
+  "current_stage": 4,
+  "stage_name": "STAGE_4_IN_PROGRESS",
+  "active_topic_id": "ELT-01",
+  "stages": {
+    "stage_1": {
+      "name": "Altyapı, Kurallar ve Yetenek Setinin Kurulması (AI Studio)",
+      "completed": true,
+      "timestamp": "2026-10-01T16:25:00+03:00",
+      "details": "ELT-01 konusu yapılandırıldı: 4 araştırma sorusu, 3 alt tema ve 5 hassas arama sorgusu hazırlandı. Kullanıcı onayı alındı."
+    },
+    "stage_2": {
+      "name": "Literatür Taraması ve Veri Toplama (Google Scholar)",
+      "completed": true,
+      "timestamp": "2026-10-01T16:33:02.297084",
+      "details": "30 makale (her tema için 10 adet) tarandı ve veritabanına işlendi. 7 adet tam metin PDF başarıyla papers/ klasörüne indirildi, diğer 23 makalenin tam özet ve DOI künyeleri kaydedildi. Kullanıcı onayı alındı."
+    },
+    "stage_3": {
+      "name": "Analiz ve Derinlemesine Özetleme (NotebookLM & Antigravity)",
+      "completed": true,
+      "timestamp": "2026-10-01T17:30:00+03:00",
+      "details": "30 makalenin tamamı için makale başına 300-500 kelime bandında (301-364 kelime), akıcı akademik İngilizce düzyazı formatında, alt başlıksız ve madde işaretsiz, doğrudan temel ampirik bulgularla sonlanan 12.250 kelimelik genişletilmiş literatür raporu outputs/Genisletilmis_Literatur_Ozetleri_ELT-01.docx ve Updated dosyasına kaydedildi. KULLANICI ONAYI ALINDI."
+    },
+    "stage_4": {
+      "name": "Sentez ve Tez Öneri Formu Raporlama (Antigravity)",
+      "completed": false,
+      "timestamp": "2026-10-01T17:43:00+03:00",
+      "details": "Akdeniz Üniversitesi / TÜBİTAK standartlarına uygun 5 ana bölümden oluşan, 5-15 sayfa uzunluğunda, APA 6 kaynakçalı resmi Yüksek Lisans Tez Öneri Formu (Markdown & Word .docx) üretiliyor."
+    }
+  }
+}

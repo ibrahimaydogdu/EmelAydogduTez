@@ -1,0 +1,33 @@
+{
+  "user": {
+    "name": "Emel Aydoğdu",
+    "title": "Öğretim Görevlisi",
+    "institution": "Akdeniz Üniversitesi",
+    "faculty": "Yabancı Diller Yüksekokulu",
+    "program": "Eğitim Bilimleri Enstitüsü, Yabancı Diller Eğitimi Ana Bilim Dalı, İngiliz Dili Eğitimi Yüksek Lisans Programı",
+    "avesis_url": "https://avesis.akdeniz.edu.tr/emelaydogdu"
+  },
+  "supervisors_and_stakeholders": {
+    "thesis_advisor": {
+      "name": "Binnur Hoca",
+      "profile": "Geleneksel akademik standartları yüksek, kuramsal temele ve metodolojik tutarlılığa çok önem veren akademisyen",
+      "expectation": "Sağlam kuramsal altyapı, kanıtlanmış ölçekler, sorunsuz jüri savunması"
+    },
+    "technical_advisor": {
+      "name": "Prof. Dr. İbrahim Aydoğdu",
+      "department": "İnşaat Mühendisliği",
+      "expertise": "Yapay zeka, optimizasyon, makine öğrenmesi, ileri istatistiksel veri analizi",
+      "avesis_url": "https://avesis.akdeniz.edu.tr/aydogdu",
+      "role": "Anket verilerinin makine öğrenmesi, kümeleme (LPA), yapısal eşitlik modellemesi (SEM) ve ağ analizlerinin gerçekleştirilmesi"
+    }
+  },
+  "constraints_and_environment": {
+    "students": "A2 seviyesinde Üniversite Hazırlık öğrencileri",
+    "weekly_teaching_hours": 12,
+    "core_class_size": 16,
+    "survey_accessible_sample": "300 - 400 hazırlık öğrencisi",
+    "in_class_intervention_limit": "Maksimum 5-10 dakika (katı müfredat nedeniyle uzun uygulama yapılamaz)",
+    "extracurricular_intervention": "Öğrenci motivasyonu düşük olduğu için ders dışı katılım beklenemez",
+    "data_collection_method": "Google Forms üzerinden tek seferlik dijital ölçek/anket uygulaması ve ders içi mikro-etkinlikler"
+  }
+}

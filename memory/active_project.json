@@ -1,0 +1,56 @@
+{
+  "topic_id": "ELT-01",
+  "selected_topic": "Üniversite Hazırlık Öğrencilerinin Yabancı Dil Keyfi (FLE) ve Yabancı Dil Huzuru (FLPM) Düzeylerinin Öğrenci Profillerine Göre İncelenmesi",
+  "english_title": "An Investigation of Foreign Language Enjoyment (FLE) and Foreign Language Peace of Mind (FLPM) Levels Among University Preparatory Students Across Learner Profiles",
+  "short_name": "Positive Psychology: Foreign Language Enjoyment and Peace of Mind",
+  "category": "Positive Psychology & Affective Factors in SLA",
+  "status": "STAGE_4_IN_PROGRESS",
+  "researcher": "Lecturer Emel AYDOĞDU (Akdeniz University, School of Foreign Languages)",
+  "supervisor": "Prof. Dr. Binnur Genç İlter, Akdeniz Üniversitesi Eğitim Bilimleri Enstitüsü, Yabancı Diller Eğitimi Anabilim Dalı",
+  "sample_and_setting": {
+    "institution": "Akdeniz University School of Foreign Languages",
+    "target_level": "A2 Intensive English Preparatory Students",
+    "survey_sample_size": "400-500 students",
+    "observation_and_micro_application_cohort": "15-16 students in core preparatory class",
+    "in_class_limit": "Maximum 5-10 minute micro-activities at start/end of class, no curricular disruption"
+  },
+  "theoretical_framework": [
+    "Positive Psychology in Second Language Acquisition (MacIntyre & Mercer, 2014)",
+    "Broaden-and-Build Theory (Fredrickson, 2001)",
+    "Control-Value Theory of Achievement Emotions (Pekrun, 2006)",
+    "Self-Determination Theory (Ryan & Deci, 2000)",
+    "Low-Arousal vs. High-Arousal Positive Emotions (Botes, Dewaele, & Greiff, 2022; Russell, 1980)"
+  ],
+  "main_research_question": "What latent emotional profiles characterize A2 intensive university English preparatory students based on Foreign Language Enjoyment (FLE) and Foreign Language Peace of Mind (FLPM), and how do these distinct profiles predict standardized academic language achievement and differ across demographic/instructional variables?",
+  "research_questions": [
+    "1. What are the baseline levels of Foreign Language Enjoyment (FLE) and Foreign Language Peace of Mind (FLPM) among A2 university preparatory students?",
+    "2. What distinct latent profiles (clusters) emerge from students' simultaneous configuration of Foreign Language Enjoyment (FLE), Foreign Language Peace of Mind (FLPM), and Foreign Language Classroom Anxiety (FLCA) through Latent Profile Analysis (LPA)?",
+    "3. How do these identified latent emotional profiles differ across gender, academic faculty/department, and weekly autonomous digital language exposure?",
+    "4. To what extent does latent profile membership predict students' official end-of-term academic English language achievement exam scores?"
+  ],
+  "sub_themes": [
+    {
+      "id": "THEME_1",
+      "title": "Foreign Language Enjoyment (FLE) and the Positive Psychology Framework",
+      "focus": "FLE conceptual architecture, Dewaele & MacIntyre foundational work, classroom pedagogical catalysts, and academic flourishing."
+    },
+    {
+      "id": "THEME_2",
+      "title": "Foreign Language Peace of Mind (FLPM) and Inner Serenity",
+      "focus": "FLPM emergence, low-arousal positive affect vs. anxiety, mindfulness, digital learning safety, and academic resilience."
+    },
+    {
+      "id": "THEME_3",
+      "title": "Person-Centered Approaches and Latent Profile Analysis (LPA)",
+      "focus": "Person-centered mixture modeling in SLA, mixture clustering vs. linear regression averages, and typological links to language performance."
+    }
+  ],
+  "instruments": [
+    "Short Form of the Foreign Language Enjoyment Scale (S-FLES; Botes, Dewaele, & Greiff, 2021; 9 items across Personal, Teacher, and Social Enjoyment)",
+    "Foreign Language Peace of Mind Scale (FLPMS; Botes, Dewaele, & Greiff, 2022; 12 items)",
+    "Abbreviated Foreign Language Classroom Anxiety Scale (FLCAS; Horwitz et al., 1986; 8 items)",
+    "Attention Check and Careless Response Control Items (2 bogus items and 1 reverse-worded verification item)",
+    "Institutional Academic English Achievement Exam Scores (Official Midterm and Final Proficiency Records)"
+  ],
+  "data_analysis_plan": "Person-centered Latent Profile Analysis (LPA) conducted via tidyLPA in R and Mplus with robust maximum likelihood (MLR) and EM estimation. Optimal class enumeration guided by AIC, BIC, SABIC, BLRT, and classification entropy. Differences across profiles on distal academic achievement and demographics tested via BCH auxiliary modeling and multinomial logistic regression, explained in persuasive educational sciences terminology."
+}

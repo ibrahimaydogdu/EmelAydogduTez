@@ -1,0 +1,84 @@
+{
+  "topics": [
+    {
+      "id": "AI-01",
+      "category": "Yapay Zeka & Makine Öğrenmesi",
+      "title": "İngilizce Hazırlık Öğrencilerinin Yapay Zeka Kullanım Alışkanlıkları ve Dil Öğrenme Özerklikleri Üzerinden Akademik Başarılarının Makine Öğrenmesi Algoritmaları ile Tahmin Edilmesi",
+      "short_name": "ML ile Başarı Tahmini",
+      "scales": ["Yabancı Dil Öğrenme Özerkliği Ölçeği (Cotterall / Yurdugül)", "Yapay Zeka Okuryazarlığı ve Kullanım Sıklığı Ölçeği (Wang vd., 2023)"],
+      "in_class_load": "0 dakika (Ders içi uygulama yok, sadece dönem ortası 400 kişiye Google Forms ve dönem sonu resmi vize/final notlarıyla eşleştirme)",
+      "technical_analysis": "İbrahim Hoca: Sınıflandırma ve regresyon ML modelleri (Random Forest, XGBoost, Yapay Sinir Ağları) ile başarı/başarısızlık tahmini",
+      "academic_value": "ELT'de anket verileri ile predictive modeling yapan çalışma sayısı yok denecek kadar azdır. Q1 potansiyeli çok yüksektir."
+    },
+    {
+      "id": "AI-02",
+      "category": "Yapay Zeka & Teknoloji Kabulü",
+      "title": "A2 Seviyesi İngilizce Hazırlık Öğrencilerinin Üretken Yapay Zeka Araçlarını Kabul Düzeyleri ve Dil Öğrenme Stratejileri ile İlişkisi: Genişletilmiş Bir TAM Modeli",
+      "short_name": "Teknoloji Kabul Modeli (TAM) ve AI",
+      "scales": ["Teknoloji Kabul Modeli Ölçeği (TAM - Davis, Genişletilmiş Versiyon)", "Dil Öğrenme Stratejileri Envanteri (SILL - Oxford)"],
+      "in_class_load": "0 dakika (Ders içi uygulama yok, sadece 300-400 kişiye tek seferlik anket)",
+      "technical_analysis": "İbrahim Hoca: Yapısal Eşitlik Modeli (SEM) ile kabul değişkenleri arasındaki yol analizi (Path analysis)",
+      "academic_value": "Klasik, saygın ve jürinin çok iyi bildiği TAM kuramının en yeni üretken yapay zeka araçlarına uyarlanması."
+    },
+    {
+      "id": "AI-03",
+      "category": "Yapay Zeka & İstem Mühendisliği",
+      "title": "İngilizce Hazırlık Öğrencilerinin Üretken Yapay Zeka ile Dil Öğrenme Etkileşimlerinin İncelenmesi: İstem (Prompt) Analizi ve Öğrenen Özerkliği",
+      "short_name": "Prompt Engineering & Öğrenci Etkileşimi",
+      "scales": ["Öğrenen Özerkliği Ölçeği", "İstem (Prompt) Değerlendirme Rubriği / Taksonomisi"],
+      "in_class_load": "Sadece 16 kişilik kendi sınıfında 2 haftada bir 5-10 dakikalık mini ChatGPT/Gemini prompt aktivitesi ve ekran görüntüsü/metin toplama",
+      "technical_analysis": "İstemlerin dilsel karmaşıklık, pedagojik derinlik ve özerklik düzeyine göre sınıflandırılması ve kümelenmesi",
+      "academic_value": "Öğrencilerin yapay zekayı gerçekten nasıl kullandığını (kopya mı yoksa bilişsel destek mi) gösteren literatürdeki en yenilikçi konulardan biridir."
+    },
+    {
+      "id": "ELT-01",
+      "category": "Pozitif Psikoloji & Duyuşsal Faktörler",
+      "title": "Üniversite Hazırlık Öğrencilerinin Yabancı Dil Keyfi (FLE) ve Yabancı Dil Huzuru (FLPM) Düzeylerinin Öğrenci Profillerine Göre İncelenmesi",
+      "short_name": "Pozitif Psikoloji: Dil Keyfi ve Huzur",
+      "scales": ["Yabancı Dil Keyfi Ölçeği (Foreign Language Enjoyment Scale - Dewaele & MacIntyre)", "Yabancı Dil Huzuru Ölçeği (Foreign Language Peace of Mind - Botes vd.)"],
+      "in_class_load": "400 öğrenciye anket; kendi 16 kişilik sınıfında haftada bir ilk 5 dakika mini 'İngilizce iyi hissettiren anlar' pozitif psikoloji mikro-aktivitesi",
+      "technical_analysis": "İbrahim Hoca: Gizli Profil Analizi (Latent Profile Analysis - LPA) ve Kümeleme (Clustering) ile öğrenci psikolojik profillerinin çıkarılması",
+      "academic_value": "ELT'de son 5 yılın en büyük küresel trendidir (Dewaele akımı). Geleneksel danışmanların ve jürilerin en çok takdir ettiği alanlardan biridir."
+    },
+    {
+      "id": "ELT-02",
+      "category": "Eğitim Teknolojisi & Dijital Davranış",
+      "title": "Dijital Çağda İngilizce Öğrenimi: Hazırlık Öğrencilerinin Siber Kaytarma (Cyberloafing) Davranışları ile Öz-Düzenleyici Dil Öğrenme Stratejileri Arasındaki İlişki",
+      "short_name": "Siber Kaytarma ve Öz-Düzenleme",
+      "scales": ["Siber Kaytarma Ölçeği (Cyberloafing Scale - Akbulut vd.)", "Öz-Düzenleyici Dil Öğrenme Ölçeği (Self-Regulated Language Learning)"],
+      "in_class_load": "400 öğrenciye anket; kendi 16 kişilik sınıfında dersin başında 5 dakikalık hedef belirleme (Goal-setting) mikro-etkinliği",
+      "technical_analysis": "İbrahim Hoca: Regresyon ve Tahminleyici Makine Öğrenmesi modelleri ile siber kaytarmanın başarı/strateji üzerindeki etkisinin modellenmesi",
+      "academic_value": "Derste telefon kullanımı ve dikkat dağınıklığı günümüz eğitiminin en yakıcı konusudur; ELT ile entegrasyonu çok yenidir."
+    },
+    {
+      "id": "ELT-03",
+      "category": "Öğrenme Motivasyonu & Oyunlaştırma",
+      "title": "Mikro-Oyunlaştırma Unsurlarının A2 Seviyesi İngilizce Hazırlık Öğrencilerinin Kelime Öğrenme Motivasyonuna ve Başarısına Etkisi",
+      "short_name": "Mikro-Oyunlaştırma ve Kelime",
+      "scales": ["Oyunlaştırılmış Öğrenme Motivasyonu Ölçeği", "Kelime Başarı Testi / Sınav Notları"],
+      "in_class_load": "400 öğrenciye anket; kendi sınıfında haftada 2 gün dersin son 5 dakikasında hızlı kelime yarışması (Kahoot/Quizlet)",
+      "technical_analysis": "İbrahim Hoca: İleri istatistiksel analizler ve ANOVA/MANOVA ile mikro-oyunlaştırma etkisinin modellenmesi",
+      "academic_value": "Geniş oyunlar yerine derse 5 dakikalık hafif oyunlaştırma eklemek sahadaki en pratik ve uygulanabilir modern ELT yaklaşımıdır."
+    },
+    {
+      "id": "ELT-04",
+      "category": "İletişim & Dijital Beceriler",
+      "title": "İngilizce Hazırlık Öğrencilerinin Dijital Okuryazarlık Becerilerinin Yabancı Dilde İletişim Kurmaya İsteklilik (WTC) Üzerindeki Etkisi",
+      "short_name": "İletişim Kurmaya İsteklilik (WTC) & Dijital Okuryazarlık",
+      "scales": ["İletişim Kurmaya İsteklilik Ölçeği (Willingness to Communicate - MacIntyre)", "Dijital Dil Öğrenme Okuryazarlığı Ölçeği"],
+      "in_class_load": "400 öğrenciye anket; kendi sınıfında dersin son 5 dakikasında ikili gruplarla mini konuşma pratikleri",
+      "technical_analysis": "İbrahim Hoca: Yapısal Eşitlik Modeli (SEM) ile dijital okuryazarlık ve konuşma istekliliği arasındaki doğrudan/dolaylı ilişkilerin kanıtlanması",
+      "academic_value": "ELT'nin en köklü teorilerinden WTC'nin dijital çağ becerileriyle sentezlenmesi; Binnur Hoca'nın çok seveceği kuramsal derinlik."
+    },
+    {
+      "id": "ELT-05",
+      "category": "Psikolojik Dayanıklılık & Yenilikçi Öğrenme",
+      "title": "İngilizce Hazırlık Öğrencilerinin Akademik Yılmazlık (Resilience) Düzeyleri ile Ters Yüz Edilmiş Öğrenmeye (Flipped Learning) Yönelik Hazırbulunuşlukları Arasındaki İlişki",
+      "short_name": "Akademik Yılmazlık ve Flipped Learning",
+      "scales": ["Akademik Yılmazlık Ölçeği (Academic Resilience Scale)", "Ters Yüz Edilmiş Öğrenme Hazırbulunuşluk Ölçeği"],
+      "in_class_load": "400 öğrenciye anket; kendi sınıfında dersten önce 5 dk video izleme ve derste ilk 5 dk mini pekiştirme",
+      "technical_analysis": "İbrahim Hoca: İleri İstatistiksel Ağ Analizi (Network Analysis) ile yılmazlık maddelerinin hazırbulunuşluk değişkenleriyle etkileşimi",
+      "academic_value": "Pandemi sonrası yükseköğretimde en kritik iki kavram: Yılmazlık (pes etmeme) ve Flipped Learning (ters yüz sınıf)."
+    }
+  ]
+}

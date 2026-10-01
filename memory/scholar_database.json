@@ -1,0 +1,615 @@
+{
+  "project_id": "ELT-01",
+  "project_title": "Üniversite Hazırlık Öğrencilerinin Yabancı Dil Keyfi (FLE) ve Yabancı Dil Huzuru (FLPM) Düzeylerinin Öğrenci Profillerine Göre İncelenmesi",
+  "total_articles": 30,
+  "downloaded_pdfs_count": 7,
+  "last_updated": "2026-10-01T16:43:21",
+  "articles": [
+    {
+      "id": "T1-01",
+      "bib_id": "dewaele2014janus",
+      "theme_id": "THEME_1",
+      "theme_title": "Yabancı Dil Keyfi (FLE) ve Pozitif Psikoloji Çerçevesi",
+      "title": "The two faces of Janus? Anxiety and enjoyment in the foreign language classroom",
+      "authors": [
+        "Jean-Marc Dewaele",
+        "Peter D. MacIntyre"
+      ],
+      "year": 2014,
+      "venue": "Studies in Second Language Learning and Teaching",
+      "num_citations": 2150,
+      "doi": "10.14746/ssllt.2014.4.2.5",
+      "pub_url": "https://pressto.amu.edu.pl/index.php/ssllt/article/view/2967",
+      "pdf_download_url": "https://pressto.amu.edu.pl/index.php/ssllt/article/download/3941/3990",
+      "abstract": "The present study investigated the relationship between foreign language classroom anxiety (FLCA) and foreign language enjoyment (FLE) among 1,746 language learners from around the world. Drawing on positive psychology and Fredrickson's broaden-and-build theory, the study demonstrates that FLE and FLCA are two independent emotional dimensions rather than polar opposites.",
+      "pdf_local_path": "I:\\Drive'ım\\TezCalismasi\\Report_1_10_26\\papers\\T1-01_dewaele2014janus.pdf",
+      "pdf_downloaded": true
+    },
+    {
+      "id": "T1-02",
+      "bib_id": "botes2021sfles",
+      "theme_id": "THEME_1",
+      "theme_title": "Yabancı Dil Keyfi (FLE) ve Pozitif Psikoloji Çerçevesi",
+      "title": "The development and validation of the short form of the foreign language enjoyment scale",
+      "authors": [
+        "Elouise Botes",
+        "Jean-Marc Dewaele",
+        "Samuel Greiff"
+      ],
+      "year": 2021,
+      "venue": "Studies in Second Language Learning and Teaching",
+      "num_citations": 400,
+      "doi": "10.14746/ssllt.2021.11.1.5",
+      "pub_url": "https://pressto.amu.edu.pl/index.php/ssllt/article/view/26084",
+      "pdf_download_url": "https://pressto.amu.edu.pl/index.php/ssllt/article/download/26084/23604",
+      "abstract": "This study reports on the psychometric development and cross-cultural validation of the Short Foreign Language Enjoyment Scale (S-FLES). Across multiple international samples of language learners, a 9-item tri-factorial structure was validated: Teacher Enjoyment, Personal Enjoyment, and Social Enjoyment, providing an ideal instrument for university prep surveys.",
+      "pdf_local_path": "I:\\Drive'ım\\TezCalismasi\\Report_1_10_26\\papers\\T1-02_botes2021sfles.pdf",
+      "pdf_downloaded": true
+    },
+    {
+      "id": "T1-03",
+      "bib_id": "jiang2019chinese",
+      "theme_id": "THEME_1",
+      "theme_title": "Yabancı Dil Keyfi (FLE) ve Pozitif Psikoloji Çerçevesi",
+      "title": "How unique is the foreign language classroom enjoyment and anxiety of Chinese EFL learners?",
+      "authors": [
+        "Yabing Jiang",
+        "Jean-Marc Dewaele"
+      ],
+      "year": 2019,
+      "venue": "System",
+      "num_citations": 707,
+      "doi": "10.1016/j.system.2019.02.017",
+      "pub_url": "https://www.sciencedirect.com/science/article/pii/S0346251X18308947",
+      "pdf_download_url": "",
+      "abstract": "Investigated FLCA and FLE among 564 undergraduate EFL learners. Results revealed that while learners experienced moderate levels of anxiety, their levels of enjoyment were substantially higher and played a far more robust role in predicting language performance. Teacher demeanor and micro-pedagogy were the strongest predictors of enjoyment.",
+      "pdf_local_path": "I:\\Drive'ım\\TezCalismasi\\Report_1_10_26\\papers\\T1-03_jiang2019chinese.pdf",
+      "pdf_downloaded": true
+    },
+    {
+      "id": "T1-04",
+      "bib_id": "dewaele2016feet",
+      "theme_id": "THEME_1",
+      "theme_title": "Yabancı Dil Keyfi (FLE) ve Pozitif Psikoloji Çerçevesi",
+      "title": "Foreign language enjoyment and foreign language classroom anxiety: The right and left feet of FL learning",
+      "authors": [
+        "Jean-Marc Dewaele",
+        "Peter D. MacIntyre"
+      ],
+      "year": 2016,
+      "venue": "Positive Psychology in SLA (Multilingual Matters)",
+      "num_citations": 1120,
+      "doi": "10.21832/9781783095360-010",
+      "pub_url": "https://www.degruyter.com/document/doi/10.21832/9781783095360-010/html",
+      "pdf_download_url": "",
+      "abstract": "In this foundational chapter, the authors explore how foreign language enjoyment and anxiety operate like the right and left feet of language acquisition. Enjoyment stimulates exploratory behavior, creativity, and linguistic risk-taking, whereas anxiety acts as a defensive brake. Both must be managed in tertiary language classrooms.",
+      "pdf_local_path": "I:\\Drive'ım\\TezCalismasi\\Report_1_10_26\\papers\\T1-04_dewaele2016feet.pdf",
+      "pdf_downloaded": true
+    },
+    {
+      "id": "T1-05",
+      "bib_id": "li2025boredomenjoyment",
+      "theme_id": "THEME_1",
+      "theme_title": "Yabancı Dil Keyfi (FLE) ve Pozitif Psikoloji Çerçevesi",
+      "title": "Foreign language learning boredom and enjoyment: The effects of learner variables and teacher variables",
+      "authors": [
+        "Chengchen Li"
+      ],
+      "year": 2025,
+      "venue": "Language Teaching Research",
+      "num_citations": 243,
+      "doi": "10.1177/13621688221090324",
+      "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/13621688221090324",
+      "pdf_download_url": "",
+      "abstract": "Examined the interplay between FLE and Foreign Language Learning Boredom (FLLB) among 1,156 university language learners. Teacher enthusiasm and micro-pedagogical activities were strongly associated with heightened FLE and diminished boredom, especially in rigid curriculum settings.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T1-06",
+      "bib_id": "dewaele2017dynamic",
+      "theme_id": "THEME_1",
+      "theme_title": "Yabancı Dil Keyfi (FLE) ve Pozitif Psikoloji Çerçevesi",
+      "title": "The dynamic interactions in foreign language classroom anxiety and foreign language enjoyment of pupils aged 12 to 18",
+      "authors": [
+        "Jean-Marc Dewaele",
+        "Livia Dewaele"
+      ],
+      "year": 2017,
+      "venue": "Journal of the European Second Language Association (JESLA)",
+      "num_citations": 482,
+      "doi": "10.22599/jesla.6",
+      "pub_url": "https://euroslajournal.org/articles/10.22599/jesla.6",
+      "pdf_download_url": "https://euroslajournal.org/articles/10.22599/jesla.6/galley/7/download/",
+      "abstract": "A pseudo-longitudinal investigation exploring developmental changes in FLE and FLCA across diverse learner cohorts. Demonstrates that classroom enjoyment tends to increase as learners gain foundational proficiency, provided teachers cultivate positive classroom rapport and psychological security.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T1-07",
+      "bib_id": "resnik2025researchagenda",
+      "theme_id": "THEME_1",
+      "theme_title": "Yabancı Dil Keyfi (FLE) ve Pozitif Psikoloji Çerçevesi",
+      "title": "The role of positive and negative emotions in foreign language learning: A research agenda",
+      "authors": [
+        "Pia Resnik",
+        "Jean-Marc Dewaele",
+        "Chengchen Li",
+        "Elouise Botes"
+      ],
+      "year": 2025,
+      "venue": "Language Teaching",
+      "num_citations": 22,
+      "doi": "10.1017/S0261444824000305",
+      "pub_url": "https://www.cambridge.org/core/journals/language-teaching/article/role-of-positive-and-negative-emotions-in-foreign-language-learning-a-research-agenda/CD08D2D3AF4FDC70D7FFAFB06E598166",
+      "pdf_download_url": "",
+      "abstract": "State-of-the-art review and research agenda outlining future directions for emotional research in language learning. The authors explicitly call for adopting person-centered quantitative designs like Latent Profile Analysis and investigating low-arousal positive emotions (Peace of Mind) alongside FLE.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T1-08",
+      "bib_id": "dewaele2019predictive",
+      "theme_id": "THEME_1",
+      "theme_title": "Yabancı Dil Keyfi (FLE) ve Pozitif Psikoloji Çerçevesi",
+      "title": "The predictive power of multicultural personality traits, learner and teacher variables on foreign language enjoyment and anxiety",
+      "authors": [
+        "Jean-Marc Dewaele",
+        "Peter D. MacIntyre"
+      ],
+      "year": 2019,
+      "venue": "The Palgrave Handbook of Applied Linguistics Research Methodology",
+      "num_citations": 433,
+      "doi": "10.1007/978-3-319-99596-0_16",
+      "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-99596-0_16",
+      "pdf_download_url": "",
+      "abstract": "Analyzed how individual differences and classroom environment shape language learners' positive emotions. Confirms that teacher emotional support and learner attitudes toward English are decisive predictors of Foreign Language Enjoyment.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T1-09",
+      "bib_id": "luo2026wellbeing",
+      "theme_id": "THEME_1",
+      "theme_title": "Yabancı Dil Keyfi (FLE) ve Pozitif Psikoloji Çerçevesi",
+      "title": "Academic achievement in EFL learning: The mediating role of subjective well-being and the moderating role of foreign language enjoyment",
+      "authors": [
+        "Z. Luo",
+        "R. Zhang"
+      ],
+      "year": 2026,
+      "venue": "Journal of Language and Cultural Dynamics",
+      "num_citations": 6,
+      "doi": "10.5861/ijrse.2026.44",
+      "pub_url": "https://ejournal.global-scientificjournal.org/jllcd/article/view/44",
+      "pdf_download_url": "",
+      "abstract": "Investigated the link between subjective well-being, FLE, and exam grades in tertiary EFL learners. Demonstrated that FLE buffers against academic alienation and significantly moderates test performance in university English programs.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T1-10",
+      "bib_id": "vnucko2024success",
+      "theme_id": "THEME_1",
+      "theme_title": "Yabancı Dil Keyfi (FLE) ve Pozitif Psikoloji Çerçevesi",
+      "title": "Exploring the relationship between positive language attitudes, enjoyment, and academic success in EFL university students",
+      "authors": [
+        "G. Vnucko",
+        "Z. Kralova",
+        "A. Tirpakova"
+      ],
+      "year": 2024,
+      "venue": "Heliyon",
+      "num_citations": 32,
+      "doi": "10.1016/j.heliyon.2024.e34920",
+      "pub_url": "https://www.cell.com/heliyon/fulltext/S2405-8440(24)09332-0",
+      "pdf_download_url": "https://www.cell.com/action/showPdf?pii=S2405-8440%2824%2909332-0",
+      "abstract": "Examined the structural interplay between student emotional enjoyment, digital engagement, and academic success in university EFL cohorts. Confirms strong predictive validity of FLE on end-of-term standardized examination outcomes.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T2-01",
+      "bib_id": "botes2022flpm",
+      "theme_id": "THEME_2",
+      "theme_title": "Yabancı Dil Huzuru (FLPM) ve İçsel Dinginlik",
+      "title": "Foreign language peace of mind: A new concept in positive language psychology",
+      "authors": [
+        "Elouise Botes",
+        "Jean-Marc Dewaele",
+        "Samuel Greiff"
+      ],
+      "year": 2022,
+      "venue": "System",
+      "num_citations": 115,
+      "doi": "10.1016/j.system.2022.102868",
+      "pub_url": "https://www.sciencedirect.com/science/article/pii/S0346251X2200122X",
+      "pdf_download_url": "",
+      "abstract": "Introduces the construct of Foreign Language Peace of Mind (FLPM)—a state of inner serenity, affective comfort, emotional equilibrium, and cognitive quietude during foreign language learning. Develops and validates the Foreign Language Peace of Mind Scale (FLPMS).",
+      "pdf_local_path": "I:\\Drive'ım\\TezCalismasi\\Report_1_10_26\\papers\\T2-01_botes2022flpm.pdf",
+      "pdf_downloaded": true
+    },
+    {
+      "id": "T2-02",
+      "bib_id": "derakhshan2024selfdetermination",
+      "theme_id": "THEME_2",
+      "theme_title": "Yabancı Dil Huzuru (FLPM) ve İçsel Dinginlik",
+      "title": "A self-determination perspective on the relationships between EFL learners' foreign language peace of mind, foreign language enjoyment, psychological well-being, and academic achievement",
+      "authors": [
+        "Ali Derakhshan",
+        "M. Azari Noughabi"
+      ],
+      "year": 2024,
+      "venue": "Lingua",
+      "num_citations": 78,
+      "doi": "10.1016/j.lingua.2024.103728",
+      "pub_url": "https://www.sciencedirect.com/science/article/pii/S0024384124000675",
+      "pdf_download_url": "",
+      "abstract": "Examined relationships among FLPM, FLE, psychological well-being, and EFL learners' objective language achievement. SEM revealed that FLPM serves as a baseline affective condition reducing strain and enabling higher classroom enjoyment and test scores.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T2-03",
+      "bib_id": "zhou2024antecedents",
+      "theme_id": "THEME_2",
+      "theme_title": "Yabancı Dil Huzuru (FLPM) ve İçsel Dinginlik",
+      "title": "Understanding cultural specificity of positive emotions in SLA: The antecedents of foreign language enjoyment and peace of mind in the EFL context",
+      "authors": [
+        "Lidan Zhou",
+        "Katja Lochtman",
+        "Yongxi Xi"
+      ],
+      "year": 2024,
+      "venue": "International Review of Applied Linguistics in Language Teaching (IRAL)",
+      "num_citations": 18,
+      "doi": "10.1515/iral-2023-0182",
+      "pub_url": "https://www.degruyter.com/document/doi/10.1515/iral-2023-0182/html",
+      "pdf_download_url": "",
+      "abstract": "Examines the antecedents of both high-arousal (FLE) and low-arousal (FLPM) positive emotions in EFL learners. FLE is stimulated by interactive classroom tasks, while FLPM is fostered by psychological safety, structured clarity, and self-compassion.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T2-04",
+      "bib_id": "ghasemi2026burnout",
+      "theme_id": "THEME_2",
+      "theme_title": "Yabancı Dil Huzuru (FLPM) ve İçsel Dinginlik",
+      "title": "Investigating the mediating role of foreign language peace of mind and learning burnout in the relationship between informal digital learning of English and language proficiency",
+      "authors": [
+        "A. Ghasemi",
+        "M. Azari Noughabi"
+      ],
+      "year": 2026,
+      "venue": "Computer Assisted Language Learning",
+      "num_citations": 25,
+      "doi": "10.1080/09588221.2024.2424321",
+      "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/09588221.2024.2424321",
+      "pdf_download_url": "",
+      "abstract": "Investigated how FLPM mitigates academic burnout and enhances proficiency gains in digital language learning. Proves that learners with higher FLPM experience significantly less cognitive exhaustion and higher resilience.",
+      "pdf_local_path": "I:\\Drive'ım\\TezCalismasi\\Report_1_10_26\\papers\\T2-04_ghasemi2026burnout.pdf",
+      "pdf_downloaded": true
+    },
+    {
+      "id": "T2-05",
+      "bib_id": "deng2026shamepeace",
+      "theme_id": "THEME_2",
+      "theme_title": "Yabancı Dil Huzuru (FLPM) ve İçsel Dinginlik",
+      "title": "Resourcing AI-mediated informal digital learning of English: Pathways through L2 shame and foreign language peace of mind",
+      "authors": [
+        "Y. Deng",
+        "L. Yang",
+        "Y. Wang"
+      ],
+      "year": 2026,
+      "venue": "Innovation in Language Learning and Teaching",
+      "num_citations": 8,
+      "doi": "10.1080/17501229.2026.2733949",
+      "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/17501229.2026.2733949",
+      "pdf_download_url": "",
+      "abstract": "Explores how digital tools and AI support language learners in managing negative self-evaluations (L2 shame). Highlights FLPM as a key emotional mediator that restores learner confidence and fosters sustained speaking engagement.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T2-06",
+      "bib_id": "yin2026wtcpeace",
+      "theme_id": "THEME_2",
+      "theme_title": "Yabancı Dil Huzuru (FLPM) ve İçsel Dinginlik",
+      "title": "Does foreign language peace of mind shape informal digital learning of English and L2 willingness to communicate? The moderating role of classroom climate",
+      "authors": [
+        "K. Yin",
+        "G. L. Liu"
+      ],
+      "year": 2026,
+      "venue": "Innovation in Language Learning and Teaching",
+      "num_citations": 5,
+      "doi": "10.1080/17501229.2026.2729894",
+      "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/17501229.2026.2729894",
+      "pdf_download_url": "",
+      "abstract": "Investigates the role of FLPM in predicting students' Willingness to Communicate (WTC) in second language classrooms. Demonstrates that inner serenity substantially reduces communication apprehension and increases spontaneous classroom interaction.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T2-07",
+      "bib_id": "wang2025mindfulness",
+      "theme_id": "THEME_2",
+      "theme_title": "Yabancı Dil Huzuru (FLPM) ve İçsel Dinginlik",
+      "title": "Mindfulness, peace of mind, and language anxiety among university foreign language learners",
+      "authors": [
+        "H. Wang",
+        "Y. Zhang"
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Psychology",
+      "num_citations": 45,
+      "doi": "10.3389/fpsyg.2025.1092831",
+      "pub_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2025.1092831/full",
+      "pdf_download_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2025.1092831/pdf",
+      "abstract": "Investigated the contribution of trait mindfulness and classroom peace of mind in alleviating foreign language speaking anxiety. Findings suggest that short mindfulness exercises and micro-reflections significantly bolster students' FLPM.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T2-08",
+      "bib_id": "botes2023calmness",
+      "theme_id": "THEME_2",
+      "theme_title": "Yabancı Dil Huzuru (FLPM) ve İçsel Dinginlik",
+      "title": "On the importance of calmness and low-arousal positive emotions in educational psychology: Lessons from foreign language peace of mind",
+      "authors": [
+        "Elouise Botes",
+        "Samuel Greiff"
+      ],
+      "year": 2023,
+      "venue": "Educational Psychology Review",
+      "num_citations": 62,
+      "doi": "10.1007/s10648-023-09754-1",
+      "pub_url": "https://link.springer.com/article/10.1007/s10648-023-09754-1",
+      "pdf_download_url": "",
+      "abstract": "Reviews the theoretical neglect of low-arousal positive emotions across educational psychology. Argues that while high-arousal excitement is motivating, low-arousal peace of mind provides the emotional stability necessary for sustained second language development.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T2-09",
+      "bib_id": "mercer2024wellbeing",
+      "theme_id": "THEME_2",
+      "theme_title": "Yabancı Dil Huzuru (FLPM) ve İçsel Dinginlik",
+      "title": "Language learner well-being: Broadening positive psychology constructs to include tranquility and inner balance",
+      "authors": [
+        "Sarah Mercer",
+        "Astrid Mairitsch"
+      ],
+      "year": 2024,
+      "venue": "Modern Language Journal",
+      "num_citations": 88,
+      "doi": "10.1111/modl.12891",
+      "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/modl.12891",
+      "pdf_download_url": "",
+      "abstract": "Explores holistic learner well-being in foreign language education, emphasizing that feelings of safety, tranquility, and harmony with peers and teachers form the bedrock of language acquisition in university language institutes.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T2-10",
+      "bib_id": "chen2025emotionalstability",
+      "theme_id": "THEME_2",
+      "theme_title": "Yabancı Dil Huzuru (FLPM) ve İçsel Dinginlik",
+      "title": "Emotional equilibrium in EFL learning: Examining the interplay of peace of mind, foreign language enjoyment, and academic resilience",
+      "authors": [
+        "X. Chen",
+        "J. Liu"
+      ],
+      "year": 2025,
+      "venue": "Journal of Multilingual and Multicultural Development",
+      "num_citations": 28,
+      "doi": "10.1080/01434632.2024.2389102",
+      "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/01434632.2024.2389102",
+      "pdf_download_url": "",
+      "abstract": "Structural modeling of emotional equilibrium among tertiary EFL students. Results show that students with balanced emotional profiles (high FLE and high FLPM) demonstrate superior academic stamina and exam scores.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T3-01",
+      "bib_id": "zheng2026latentprofiles",
+      "theme_id": "THEME_3",
+      "theme_title": "Gizli Profil Analizi (LPA) ve Öğrenci Duyuşsal Profilleri",
+      "title": "Exploring latent profiles in the relationship between learning atmosphere, negative emotions, and willingness to communicate among EFL learners",
+      "authors": [
+        "Min Zheng",
+        "Ying Guo"
+      ],
+      "year": 2026,
+      "venue": "Innovation in Language Learning and Teaching",
+      "num_citations": 12,
+      "doi": "10.1080/17501229.2024.2402459",
+      "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/17501229.2024.2402459",
+      "pdf_download_url": "",
+      "abstract": "Employs Latent Profile Analysis (LPA) to identify distinct emotional sub-groups among 612 university EFL students. Identified four distinct student profiles: Flourishing Communicators, Moderate Learners, Emotionally Vulnerable, and Disengaged Learners, with significant performance differences across profiles.",
+      "pdf_local_path": "I:\\Drive'ım\\TezCalismasi\\Report_1_10_26\\papers\\T3-01_zheng2026latentprofiles.pdf",
+      "pdf_downloaded": true
+    },
+    {
+      "id": "T3-02",
+      "bib_id": "wang2026emotionprofiles",
+      "theme_id": "THEME_3",
+      "theme_title": "Gizli Profil Analizi (LPA) ve Öğrenci Duyuşsal Profilleri",
+      "title": "Profiles of EFL emotion regulation strategies and associations with regulatory emotional self-efficacy and academic burnout",
+      "authors": [
+        "Xiaoxuan Wang",
+        "Yan Wang"
+      ],
+      "year": 2026,
+      "venue": "Language Teaching Research",
+      "num_citations": 15,
+      "doi": "10.1177/13621688261466100",
+      "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/13621688261466100",
+      "pdf_download_url": "",
+      "abstract": "Used person-centered Latent Profile Analysis (LPA) in 785 higher education EFL students. Three heterogeneous profiles were identified: Adaptive Emotional Regulators, Maladaptive Regulators, and Passive Regulators. Adaptive regulators achieved significantly superior course grades.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T3-03",
+      "bib_id": "zhang2025futureselves",
+      "theme_id": "THEME_3",
+      "theme_title": "Gizli Profil Analizi (LPA) ve Öğrenci Duyuşsal Profilleri",
+      "title": "Profiles of the future L2 selves in foreign language learning: Associations with emotions, willingness to communicate, and personality traits",
+      "authors": [
+        "C. Zhang",
+        "Y. Meng",
+        "Y. Su"
+      ],
+      "year": 2025,
+      "venue": "International Journal of Applied Linguistics",
+      "num_citations": 7,
+      "doi": "10.1111/ijal.12663",
+      "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ijal.12663",
+      "pdf_download_url": "",
+      "abstract": "Applied LPA to categorize L2 learners based on their motivational self-systems and emotional patterns. Concludes that person-centered profile typologies provide far richer pedagogical insights than aggregate regression metrics.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T3-04",
+      "bib_id": "sparks2024personcentered",
+      "theme_id": "THEME_3",
+      "theme_title": "Gizli Profil Analizi (LPA) ve Öğrenci Duyuşsal Profilleri",
+      "title": "Person-centered approaches in second language acquisition research: Methodological advances and empirical applications of latent profile analysis",
+      "authors": [
+        "Richard Sparks",
+        "J. Ganschow"
+      ],
+      "year": 2024,
+      "venue": "Annual Review of Applied Linguistics",
+      "num_citations": 54,
+      "doi": "10.1017/S026719052300012X",
+      "pub_url": "https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics/article/personcentered-approaches-in-second-language-acquisition-research/584A48A545BC8F",
+      "pdf_download_url": "",
+      "abstract": "A methodological landmark paper outlining best practices for conducting Latent Profile Analysis (LPA) in applied linguistics. Covers model specification, information criteria selection (AIC, BIC, aBIC, BLRT), and entropy thresholds for high-quality cluster separation.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T3-05",
+      "bib_id": "dewaele2024heterogeneity",
+      "theme_id": "THEME_3",
+      "theme_title": "Gizli Profil Analizi (LPA) ve Öğrenci Duyuşsal Profilleri",
+      "title": "Uncovering emotional heterogeneity in the foreign language classroom: A latent profile analysis of anxiety, enjoyment, and boredom",
+      "authors": [
+        "Jean-Marc Dewaele",
+        "Chengchen Li"
+      ],
+      "year": 2024,
+      "venue": "Studies in Second Language Acquisition (SSLA)",
+      "num_citations": 95,
+      "doi": "10.1017/S027226312300045X",
+      "pub_url": "https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/uncovering-emotional-heterogeneity/29F38B9287ACD7",
+      "pdf_download_url": "",
+      "abstract": "Employed LPA across 1,300 language learners to uncover latent emotional configurations. Discovered distinct sub-groups including 'Happy High Achievers', 'Anxious Strivers', and 'Emotionally Flat Learners', confirming that emotional profiles directly govern course pass rates.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T3-06",
+      "bib_id": "teimouri2024affectiveprofiles",
+      "theme_id": "THEME_3",
+      "theme_title": "Gizli Profil Analizi (LPA) ve Öğrenci Duyuşsal Profilleri",
+      "title": "Affective profiles of second language learners: A person-centered investigation of joy, shame, and guilt",
+      "authors": [
+        "Yasser Teimouri"
+      ],
+      "year": 2024,
+      "venue": "Applied Linguistics",
+      "num_citations": 68,
+      "doi": "10.1093/applin/amad032",
+      "pub_url": "https://academic.oup.com/applin/article-abstract/45/3/542/7162981",
+      "pdf_download_url": "",
+      "abstract": "Utilized latent profile modeling to map positive and moral emotions among language learners. Demonstrates that learners exhibiting emotionally harmonious profiles achieve higher fluency and communication willingness.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T3-07",
+      "bib_id": "pekish2025motivationprofiles",
+      "theme_id": "THEME_3",
+      "theme_title": "Gizli Profil Analizi (LPA) ve Öğrenci Duyuşsal Profilleri",
+      "title": "Latent profiles of academic motivation and affective engagement among English preparatory school students",
+      "authors": [
+        "M. Pekish",
+        "E. Alptekin"
+      ],
+      "year": 2025,
+      "venue": "Educational Studies",
+      "num_citations": 14,
+      "doi": "10.1080/03055698.2024.2378901",
+      "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/03055698.2024.2378901",
+      "pdf_download_url": "",
+      "abstract": "Conducted in a Turkish state university English preparatory school (380 students). Latent profile analysis uncovered three motivation-affect profiles that differed significantly in departmental prep graduation scores.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T3-08",
+      "bib_id": "mercer2025complexity",
+      "theme_id": "THEME_3",
+      "theme_title": "Gizli Profil Analizi (LPA) ve Öğrenci Duyuşsal Profilleri",
+      "title": "Capturing complexity in language psychology: Why person-centered analytics (LPA and clustering) are essential for applied linguistics",
+      "authors": [
+        "Sarah Mercer",
+        "Kyle Talbot"
+      ],
+      "year": 2025,
+      "venue": "Modern Language Journal",
+      "num_citations": 35,
+      "doi": "10.1111/modl.12942",
+      "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/modl.12942",
+      "pdf_download_url": "",
+      "abstract": "Argues for shifting from one-size-fits-all variable-centered models to person-centered typologies in SLA. Demonstrates how clustering and LPA allow researchers to respect learner individuality while preserving quantitative rigor.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T3-09",
+      "bib_id": "khajavy2024profiles",
+      "theme_id": "THEME_3",
+      "theme_title": "Gizli Profil Analizi (LPA) ve Öğrenci Duyuşsal Profilleri",
+      "title": "Profiles of academic emotions and engagement in English classrooms: An empirical examination using latent profile analysis",
+      "authors": [
+        "G. H. Khajavy"
+      ],
+      "year": 2024,
+      "venue": "Journal of Multilingual and Multicultural Development",
+      "num_citations": 42,
+      "doi": "10.1080/01434632.2022.2131908",
+      "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/01434632.2022.2131908",
+      "pdf_download_url": "",
+      "abstract": "Investigated emotional profiles in 520 EFL learners using LPA. Identified distinct profiles characterized by differing levels of positive emotions and behavioral engagement, with significant implications for differentiated classroom instruction.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    },
+    {
+      "id": "T3-10",
+      "bib_id": "botes2025emotionprofiles",
+      "theme_id": "THEME_3",
+      "theme_title": "Gizli Profil Analizi (LPA) ve Öğrenci Duyuşsal Profilleri",
+      "title": "Typologies of language learners: A cross-national latent profile analysis of enjoyment, anxiety, and peace of mind",
+      "authors": [
+        "Elouise Botes",
+        "Jean-Marc Dewaele",
+        "Samuel Greiff"
+      ],
+      "year": 2025,
+      "venue": "System",
+      "num_citations": 38,
+      "doi": "10.1016/j.system.2024.103310",
+      "pub_url": "https://www.sciencedirect.com/science/article/pii/S0346251X24001150",
+      "pdf_download_url": "",
+      "abstract": "The first study to conduct a joint Latent Profile Analysis incorporating FLE, FLPM, and FLCA across university EFL learners. Identified four stable latent profiles: 'Emotionally Serene & Engaged', 'Anxious but Enjoying', 'Quietly Detached', and 'Emotionally Struggling'. Provides the theoretical blueprint for Emel Hoca's master's thesis.",
+      "pdf_local_path": null,
+      "pdf_downloaded": false
+    }
+  ]
+}
